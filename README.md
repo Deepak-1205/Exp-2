@@ -5,7 +5,6 @@ To create UML diagrams for a Library Management System.
 
 ## SRS (Procedure):
 Create the following diagrams in StarUML:
-
 -> Use Case Diagram  
 -> Class Diagram  
 -> Activity Diagram  
